@@ -13,6 +13,27 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Bambie",
+      "age": 12,
+      "place": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Oscar",
+      "age": 21,
+      "place": "Patna",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "age": 2,
+      "place": "Banglore",
+      "gender": "Male"
     }
   ]
 }
