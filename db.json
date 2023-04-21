@@ -1,6 +1,18 @@
 {
-
-"Data":[{"id":1},{"id":2},{"id":3},{"id":4},{"id":5},{"id":6}],
-"Users":[{"id":0},{"id":1},{"id":2},{"id":3},{"id":4},{"id":5},{"id":6}]
-
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
 }
